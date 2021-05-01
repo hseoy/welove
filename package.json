@@ -1,12 +1,12 @@
 {
   "name": "welove",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a library for SPA. this project has just begun.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/hseoy/braillePatternDots-js.git",
+  "repository": "https://github.com/hseoy/welove.git",
   "author": "Yunseo Hwang <yunseo.dev@gmail.com>",
   "license": "MIT",
   "bugs": {
